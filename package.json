@@ -15,9 +15,9 @@
     "test": "snyk test"
   },
   "dependencies": {
+    "flowise":"2.1.3",
     "tinymce":"4.2.3",
     "inflight":"1.0.6",
-    "elliptic": "6.4.1",
     "yallist":"4.0.0",
     "hfs":"0.52.9",
     "fs":"0.0.1-security",
