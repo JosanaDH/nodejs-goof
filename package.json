@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "adm-zip":"0.4.7",
-    "flowise":"2.1.3",
+    "flowise":"3.0.0",
     "tinymce":"4.2.3",
     "inflight":"1.0.6",
     "yallist":"4.0.0",
